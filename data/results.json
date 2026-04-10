@@ -1,0 +1,30 @@
+[
+  {
+    "timestamp": "2026-04-10 14:18:13",
+    "won": true,
+    "username_enc": "DxMEFQ==",
+    "score_enc": "U0NZ",
+    "elapsed_enc": "XQ=="
+  },
+  {
+    "timestamp": "2026-04-10 14:18:19",
+    "won": false,
+    "username_enc": "Cg==",
+    "score_enc": "RkdZ",
+    "elapsed_enc": "WA=="
+  },
+  {
+    "timestamp": "2026-04-10 14:28:36",
+    "won": true,
+    "username_enc": "DxMEFQ==",
+    "score_enc": "U0Rf",
+    "elapsed_enc": "WkQ="
+  },
+  {
+    "timestamp": "2026-04-10 14:29:16",
+    "won": false,
+    "username_enc": "CgUNG14XBBAW=",
+    "score_enc": "RkdZ",
+    "elapsed_enc": "WQ=="
+  }
+]
